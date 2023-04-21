@@ -1,3 +1,5 @@
+Avatar
+nsenthil26
 # java-challenge1
 input format:
 File1
